@@ -1,0 +1,523 @@
+                                                                                * {
+                                                                                    margin: 0px;
+                                                                                    padding: 0px;
+                                                                                }
+                                                                                
+                                                                                header {
+                                                                                    width: 100%;
+                                                                                    float: left;
+                                                                                }
+                                                                                
+                                                                                .logo {
+                                                                                    padding: 24px 0px;
+                                                                                    margin-left: 30px;
+                                                                                }
+                                                                                /*header section end*/
+                                                                                /*banner section start*/
+                                                                                
+                                                                                .banner {
+                                                                                    background: url(../img/banner.jpg);
+                                                                                    background-repeat: no-repeat;
+                                                                                    background-size: cover;
+                                                                                    background-position: center;
+                                                                                    float: left;
+                                                                                    width: 100%;
+                                                                                    padding: 25px 0px;
+                                                                                }
+                                                                                
+                                                                                .banner-content {
+                                                                                    padding-top: 190px;
+                                                                                    padding-bottom: 60px;
+                                                                                    width: 60%;
+                                                                                    margin: 0 auto;
+                                                                                    text-align: center;
+                                                                                }
+                                                                                
+                                                                                .banner-content h2 {
+                                                                                    font-size: 72px;
+                                                                                    color: white;
+                                                                                    font-weight: bold;
+                                                                                }
+                                                                                
+                                                                                .banner-content span {
+                                                                                    border-bottom: 2px solid #15a4fa;
+                                                                                    display: block;
+                                                                                    width: 80%;
+                                                                                    margin: 24px auto;
+                                                                                }
+                                                                                
+                                                                                .banner-content p {
+                                                                                    color: #ffff;
+                                                                                    font-size: 20px;
+                                                                                    font-weight: 300;
+                                                                                    margin-bottom: 60px;
+                                                                                }
+                                                                                
+                                                                                .btn-one {
+                                                                                    background: transparent;
+                                                                                    border: 1px solid #15a4fa;
+                                                                                    padding: 14px 20px;
+                                                                                    color: #ffff;
+                                                                                    font-size: 20px;
+                                                                                }
+                                                                                
+                                                                                .icon-type {
+                                                                                    margin-top: 175px;
+                                                                                    color: #ffff;
+                                                                                    font-size: 18px;
+                                                                                    text-align: center;
+                                                                                }
+                                                                                /*banner section end*/
+                                                                                
+                                                                                .content {
+                                                                                    width: 100%;
+                                                                                    float: left;
+                                                                                    padding: 77px 0px;
+                                                                                }
+                                                                                
+                                                                                .content-write {}
+                                                                                
+                                                                                .content-write h2 {
+                                                                                    font-size: 40px;
+                                                                                    text-align: center;
+                                                                                    margin-bottom: 28px;
+                                                                                }
+                                                                                
+                                                                                .content-write p {
+                                                                                    font-size: 20px;
+                                                                                    padding-bottom: 95px;
+                                                                                    margin: 0px 9px;
+                                                                                    text-align: center;
+                                                                                }
+                                                                                /*content section end*/
+                                                                                /*feature section start*/
+                                                                                
+                                                                                .feature {
+                                                                                    width: 100%;
+                                                                                    float: left;
+                                                                                    @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+                                                                                    padding-bottom: 50px;
+                                                                                }
+                                                                                
+                                                                                .feature-one {
+                                                                                    text-align: center;
+                                                                                    float: left;
+                                                                                }
+                                                                                
+                                                                                .feature-one img {
+                                                                                    margin-bottom: 29px;
+                                                                                }
+                                                                                
+                                                                                .feature-one h2 {
+                                                                                    font-size: 22px;
+                                                                                    margin-bottom: 22px;
+                                                                                }
+                                                                                
+                                                                                .feature-one p {
+                                                                                    font-size: 15px;
+                                                                                    padding: 0px 16px;
+                                                                                }
+                                                                                
+                                                                                .feature-two {
+                                                                                    text-align: center;
+                                                                                    float: left;
+                                                                                }
+                                                                                
+                                                                                .feature-two img {
+                                                                                    margin-bottom: 29px;
+                                                                                }
+                                                                                
+                                                                                .feature-two h2 {
+                                                                                    font-size: 22px;
+                                                                                    margin-bottom: 22px;
+                                                                                }
+                                                                                
+                                                                                .feature-two p {
+                                                                                    font-size: 15px;
+                                                                                    padding: 0px 16px;
+                                                                                }
+                                                                                
+                                                                                .feature-three {
+                                                                                    text-align: center;
+                                                                                    float: left;
+                                                                                }
+                                                                                
+                                                                                .feature-three img {
+                                                                                    margin-bottom: 29px;
+                                                                                }
+                                                                                
+                                                                                .feature-three h2 {
+                                                                                    font-size: 22px;
+                                                                                    margin-bottom: 22px;
+                                                                                }
+                                                                                
+                                                                                .feature-three p {
+                                                                                    font-size: 15px;
+                                                                                    padding: 0px 16px;
+                                                                                }
+                                                                                /* featture section end*/
+                                                                                /*pro section start*/
+                                                                                
+                                                                                .pro {
+                                                                                    float: left;
+                                                                                    width: 100%;
+                                                                                    padding: 44px 0px;
+                                                                                }
+                                                                                
+                                                                                .work {
+                                                                                    text-align: center;
+                                                                                    @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+                                                                                    padding-bottom: 50px;
+                                                                                }
+                                                                                
+                                                                                .work h2 {
+                                                                                    font-size: 41px;
+                                                                                    padding-bottom: 18px;
+                                                                                }
+                                                                                
+                                                                                .work p {
+                                                                                    font-size: 15px;
+                                                                                }
+                                                                                /*pro section end*/
+                                                                                /*portfolio section end*/
+                                                                                
+                                                                                .portfolio {
+                                                                                    width: 100%;
+                                                                                    float: left;
+                                                                                    padding-bottom: 118px;
+                                                                                }
+                                                                                
+                                                                                .portfolio-one {
+                                                                                    float: left;
+                                                                                }
+                                                                                
+                                                                                .portfolio-one img.one {
+                                                                                    margin-bottom: 26px;
+                                                                                }
+                                                                                
+                                                                                .portfolio-one img.two {}
+                                                                                
+                                                                                .portfolio-two {
+                                                                                    float: left;
+                                                                                }
+                                                                                
+                                                                                .portfolio-two img.three {
+                                                                                    margin-bottom: 26px;
+                                                                                }
+                                                                                
+                                                                                .portfolio-two img.four {}
+                                                                                
+                                                                                .portfolio-three {
+                                                                                    float: left;
+                                                                                }
+                                                                                
+                                                                                .portfolio-three img.five {
+                                                                                    margin-bottom: 26px;
+                                                                                }
+                                                                                
+                                                                                .portfolio-three img.six {}
+                                                                                /*portfolio section end*/
+                                                                                /*contact section start*/
+                                                                                
+                                                                                .contact {
+                                                                                    width: 100%;
+                                                                                    float: left;
+                                                                                    background: url(../img/contact.jpg);
+                                                                                    background-repeat: no-repeat;
+                                                                                    background-size: cover;
+                                                                                    padding: 25px 0px;
+                                                                                    padding-bottom: 95px;
+                                                                                }
+                                                                                
+                                                                                .contact-us {}
+                                                                                
+                                                                                .contact-us h2 {
+                                                                                    font-size: 41px;
+                                                                                    text-align: center;
+                                                                                    color: #ffff;
+                                                                                    padding-top: 55px;
+                                                                                }
+                                                                                
+                                                                                .contact-us p {
+                                                                                    font-size: 15px;
+                                                                                    text-align: center;
+                                                                                    color: #7c7f84;
+                                                                                    padding-top: 20px;
+                                                                                    padding-bottom: 44px;
+                                                                                }
+                                                                                
+                                                                                .contact-form {
+                                                                                    width: 60%;
+                                                                                    margin: 0 auto;
+                                                                                }
+                                                                                
+                                                                                .form-control-one {
+                                                                                    font-size: 20px;
+                                                                                    border-radius: 5px;
+                                                                                    border: 2px solid #939495;
+                                                                                    color: #939495;
+                                                                                    background-color: transparent;
+                                                                                    padding: 15px 5px;
+                                                                                    width: 100%;
+                                                                                    margin: 8px 0px;
+                                                                                }
+                                                                                
+                                                                                .form-control-two {
+                                                                                    font-size: 20px;
+                                                                                    border-radius: 5px;
+                                                                                    border: 2px solid #939495;
+                                                                                    color: #939495;
+                                                                                    background-color: transparent;
+                                                                                    padding: 15px 5px;
+                                                                                    width: 100%;
+                                                                                    margin: 20px 0px;
+                                                                                }
+                                                                                
+                                                                                .cstm-text {
+                                                                                    width: 100%;
+                                                                                    height: 172px;
+                                                                                    margin: 1px auto;
+                                                                                    background: transparent;
+                                                                                    padding: 18px 7px;
+                                                                                    border-radius: 3px;
+                                                                                    font-size: 16px;
+                                                                                }
+                                                                                
+                                                                                .left {
+                                                                                    width: 50%;
+                                                                                    float: left;
+                                                                                }
+                                                                                
+                                                                                .check {
+                                                                                    margin-top: 24px;
+                                                                                    float: left;
+                                                                                    color: #9aa0aa;
+                                                                                }
+                                                                                
+                                                                                .subscribe {
+                                                                                    margin-left: 18px;
+                                                                                    margin-top: 21px;
+                                                                                    display: block;
+                                                                                    color: #9aa0aa;
+                                                                                    font-size: 15px;
+                                                                                }
+                                                                                
+                                                                                .right {
+                                                                                    font-size: 15px;
+                                                                                    float: left;
+                                                                                    color: #9aa0aa;
+                                                                                }
+                                                                                
+                                                                                .btn-8 {
+                                                                                    background-color: transparent;
+                                                                                    border: 2px solid #15a4fa;
+                                                                                    font-weight: bold;
+                                                                                    color: #fff;
+                                                                                    padding: 4px 14px;
+                                                                                    display: inline-block;
+                                                                                    float: left;
+                                                                                    margin-top: -28px;
+                                                                                    margin-left: 604px;
+                                                                                }
+                                                                                /* contact section end*/
+                                                                                /*footer section start*/
+                                                                                
+                                                                                footer {
+                                                                                    width: 100%;
+                                                                                    float: left;
+                                                                                    padding: 35px 0px;
+                                                                                    padding-bottom: 19px;
+                                                                                }
+                                                                                
+                                                                                .copy {
+                                                                                    float: left;
+                                                                                    margin-top: 25px;
+                                                                                }
+                                                                                
+                                                                                .copy p {
+                                                                                    font-size: 15px;
+                                                                                }
+                                                                                
+                                                                                .social-link {
+                                                                                    float: left;
+                                                                                    font-size: 45px;
+                                                                                }
+                                                                                
+                                                                                .social-link ul {
+                                                                                    list-style: none;
+                                                                                    float: left;
+                                                                                    margin-left: 337px;
+                                                                                }
+                                                                                
+                                                                                .social-link ul li {
+                                                                                    display: inline-block;
+                                                                                }
+                                                                                
+                                                                                .social-link ul li a {
+                                                                                    text-decoration: none;
+                                                                                }
+                                                                                /*footer section end*/
+                                                                                /*media query*/
+                                                                                /*mobile device*/
+                                                                                
+                                                                                @media (max-width:600px) {
+                                                                                    .portfolio-one img.one {
+                                                                                        width: 463px;
+                                                                                        margin-left: -5px;
+                                                                                    }
+                                                                                    .portfolio-one img.two {
+                                                                                        width: 463px;
+                                                                                        margin-left: -5px;
+                                                                                        margin-bottom: 25px;
+                                                                                    }
+                                                                                    .portfolio-two img.three {
+                                                                                        width: 463px;
+                                                                                        margin-left: -5px;
+                                                                                    }
+                                                                                    .portfolio-two img.four {
+                                                                                        width: 463px;
+                                                                                        margin-left: -5px;
+                                                                                        margin-bottom: 25px;
+                                                                                    }
+                                                                                    .portfolio-three img.five {
+                                                                                        width: 463px;
+                                                                                        margin-left: -5px;
+                                                                                    }
+                                                                                    .portfolio-three img.six {
+                                                                                        width: 463px;
+                                                                                        margin-left: -5px;
+                                                                                    }
+                                                                                    .subscribe {
+                                                                                        width: 145px;
+                                                                                    }
+                                                                                    .btn-8 {
+                                                                                        margin-left: 208px;
+                                                                                    }
+                                                                                    .social-link {
+                                                                                        font-size: 23px;
+                                                                                        margin-top: -43px;
+                                                                                    }
+                                                                                }
+                                                                                /*small device*/
+                                                                                
+                                                                                @media (min-width:601px) and (max-width:768px) {
+                                                                                    .portfolio-one img.one {
+                                                                                        width: 642px;
+                                                                                        margin-left: -63px;
+                                                                                    }
+                                                                                    .portfolio-one img.two {
+                                                                                        width: 642px;
+                                                                                        margin-left: -63px;
+                                                                                        margin-bottom: 25px;
+                                                                                    }
+                                                                                    .portfolio-two img.three {
+                                                                                        width: 642px;
+                                                                                        margin-left: -63px;
+                                                                                    }
+                                                                                    .portfolio-two img.four {
+                                                                                        width: 642px;
+                                                                                        margin-left: -63px;
+                                                                                        margin-bottom: 25px;
+                                                                                    }
+                                                                                    .portfolio-three img.five {
+                                                                                        width: 642px;
+                                                                                        margin-left: -63px;
+                                                                                    }
+                                                                                    .portfolio-three img.six {
+                                                                                        width: 642px;
+                                                                                        margin-left: -63px;
+                                                                                    }
+                                                                                    .subscribe {
+                                                                                        width: 145px;
+                                                                                    }
+                                                                                    .btn-8 {
+                                                                                        margin-left: 242px;
+                                                                                    }
+                                                                                    .social-link {
+                                                                                        font-size: 23px;
+                                                                                        margin-top: -43px;
+                                                                                        margin-left: 70px;
+                                                                                    }
+                                                                                    footer {
+                                                                                        margin-top: 11px;
+                                                                                    }
+                                                                                }
+                                                                                /*medium device*/
+                                                                                
+                                                                                @media (min-width:768.01px) and (max-width:992px) {
+                                                                                    .feature-one h2 {
+                                                                                        font-size: 18px;
+                                                                                    }
+                                                                                    .feature-two h2 {
+                                                                                        font-size: 18px;
+                                                                                    }
+                                                                                    .feature-three h2 {
+                                                                                        font-size: 18px;
+                                                                                    }
+                                                                                    .portfolio-one img.one {
+                                                                                        width: 230px;
+                                                                                        margin-left: -26px;
+                                                                                    }
+                                                                                    .portfolio-one img.two {
+                                                                                        width: 230px;
+                                                                                        margin-left: -26px;
+                                                                                    }
+                                                                                    .portfolio-two img.three {
+                                                                                        width: 230px;
+                                                                                        margin-left: -14px;
+                                                                                    }
+                                                                                    .portfolio-two img.four {
+                                                                                        width: 230px;
+                                                                                        margin-left: -14px;
+                                                                                    }
+                                                                                    .portfolio-three img.five {
+                                                                                        width: 230px;
+                                                                                    }
+                                                                                    .portfolio-three img.six {
+                                                                                        width: 230px;
+                                                                                    }
+                                                                                    .btn-8 {
+                                                                                        margin-left: 352px;
+                                                                                    }
+                                                                                    .social-link {
+                                                                                        font-size: 30px;
+                                                                                    }
+                                                                                    .social-link ul {
+                                                                                        margin-left: 140px;
+                                                                                    }
+                                                                                }
+                                                                                /*large device*/
+                                                                                
+                                                                                @media (min-width:992.01px) and (max-width:1200px) {
+                                                                                    .portfolio-one img.one {
+                                                                                        width: 300px;
+                                                                                        margin-left: -26px;
+                                                                                    }
+                                                                                    .portfolio-one img.two {
+                                                                                        width: 300px;
+                                                                                        margin-left: -26px;
+                                                                                    }
+                                                                                    .portfolio-two img.three {
+                                                                                        width: 300px;
+                                                                                        margin-left: -14px;
+                                                                                    }
+                                                                                    .portfolio-two img.four {
+                                                                                        width: 300px;
+                                                                                        margin-left: -14px;
+                                                                                    }
+                                                                                    .portfolio-three img.five {
+                                                                                        width: 300px;
+                                                                                    }
+                                                                                    .portfolio-three img.six {
+                                                                                        width: 300px;
+                                                                                    }
+                                                                                    .btn-8 {
+                                                                                        margin-left: 493px;
+                                                                                    }
+                                                                                    .social-link {
+                                                                                        font-size: 43px;
+                                                                                    }
+                                                                                    .social-link ul {
+                                                                                        margin-left: 264px;
+                                                                                    }
+                                                                                }
